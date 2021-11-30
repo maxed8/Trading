@@ -1,0 +1,1 @@
+# Two trading algorithms - stocks.py predicts future option ranges based on historical data and OAFALL.py looks for arbitrage opportunities in option prices and completes flashbuying and flashselling, outputting the results to a Slack webhook.
